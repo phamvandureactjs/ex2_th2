@@ -12,7 +12,7 @@ export default function HelloWorld(){
     return (
         <div>
            <div>Xin chào {name } và {formatName(user)}</div>
-            <div>Rất vui khi được gặp bạn</div>
+            <div>Rất vui khi được gặp bạn hihi </div>
         </div>
     );
 }
